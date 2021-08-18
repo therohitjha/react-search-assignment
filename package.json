@@ -2,7 +2,7 @@
   "name": "search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://therohitjha.github.io/react-search",
+  "homepage": "https://therohitjha.github.io/react-search-assignment",
   "dependencies": {
     "node-sass": "^4.14.1",
     "prop-types": "^15.7.2",
